@@ -1,12 +1,24 @@
-# React + Vite
+## ​ ZegoTalk
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek **real-time voice & video calling app** built with **React**, **Vite**, and **ZEGOCLOUD**. Ideal for showcasing your engineering skills in building modern web communication applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+##  Key Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-  Real-time **Voice & Video Calling** with invitation-style initiation
+-  Secure usage of environment variables for production-safe API keys
+-  Built with **Vite** for lightning-fast builds and **Tailwind CSS** for clean, responsive UI
+-  Uses **ZegoUIKitPrebuilt** with plugin support (`ZIM`) for simplified call flows
+-  Optional token server architecture for secure deployment (briefly explained)
+
+---
+
+## Demo Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot1.png" alt="Home Screen" width="400" style="margin:10px; border-radius:10px;" />
+  <img src="screenshots/screenshot2.png" alt="Call Interface" width="400" style="margin:10px; border-radius:10px;" />
+</p>
+
